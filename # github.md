@@ -34,4 +34,12 @@ git clone git@github.com:AXianYou/githubTesting.git
 ![](./images/10.jpg)
 ![](./images/11.jpg)
 
-##  完成提交　　　下一次进行更改时首先fork一次　　将最新的代码下载到本地　　　
+##  完成提交　　　下一次进行更改时首先fork一次　　将最新的代码下载到本地
+
+
+
+
+
+##  第一次上传文件时，需要指定相应的仓库地址：
+
+## ![](./images/12.jpg) 　　　

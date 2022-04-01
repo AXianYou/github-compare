@@ -22,7 +22,15 @@ git clone git@github.com:AXianYou/githubTesting.git
 
 
 
-## 在进行代码修改完成后，将文件`push`至自己的仓库
+## 在进行代码修改完成后，将文件`push`至自己的仓库(push之前最好进行一次pull，保证自己的代码为最新的代码，确保不会造成损失)
+
+```bash
+git add .
+git commit -m "testing"
+git pull
+git push
+```
+
 ![](./images/6.jpg)
 ![](./images/7.jpg)
 
